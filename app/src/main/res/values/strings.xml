@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_information">Select Dog or Cat pictures</string>
+    <string name="nav_header_subtitle">bdumontelle@stcharlessd.org</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="dog_pictures">Dog Pictures</string>
+    <string name="cat_pictures">Cat Pictures</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_cat">CatActivity</string>
+    <string name="exit_warning">Exit App?</string>
+    <string name="exit_question">Do you wish to exit the app?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="dog_information">Scroll up or down to view dog pictures.</string>
+    <string name="cat_information">Scroll up or down to view cat pictures.</string>
+    <string name="opening_text">Click on the hamburger to select between dog pictures, cat pictures, or exiting the app. Enjoy!</string>
+</resources>

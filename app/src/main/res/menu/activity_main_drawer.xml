@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dog"
+            android:icon="@drawable/ic_photo_view"
+            android:title="@string/dog_pictures" />
+        <item
+            android:id="@+id/nav_cat"
+            android:icon="@drawable/ic_photo_view"
+            android:title="@string/cat_pictures" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_exit_app"
+            android:title="@string/exit" />
+
+    </group>
+
+
+</menu>
